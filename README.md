@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=asiasyouasias&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/asiasyouasias"
+  width="100%"
+/>
+</a>
+
 <img src="https://github.com/asiasyouasias/asiasyouasias/blob/output/github-contribution-grid-snake.svg"/>
